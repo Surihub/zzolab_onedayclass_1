@@ -1,2 +1,6 @@
+streamlit
 st-gsheets-connection
 koreanize-matplotlib
+streamlit.components.v1
+python-docx
+pillow

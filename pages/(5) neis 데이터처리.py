@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 
-st.title("NEIS 데이터 처리 앱")
+st.title(" NEIS 데이터 처리 앱")
 st.info("이 앱은 NEIS 데이터를 처리하여 학생들의 성적 정보를 정리합니다. 엑셀 파일을 업로드하여 데이터를 확인하세요.")
 
 uploaded_file = st.file_uploader("엑셀 파일을 업로드하세요", type=["xlsx"])

@@ -1,9 +1,8 @@
-streamlit
-st-gsheets-connection
-koreanize-matplotlib
-python-docx
-pillow
-numpy
-pandas
-matplotlib
-datetime
+streamlit==1.25.0
+st-gsheets-connection==0.1.2
+koreanize-matplotlib==0.1.1
+python-docx==0.8.11
+pillow==9.5.0
+numpy==1.24.2
+pandas==2.0.3
+matplotlib==3.7.1
